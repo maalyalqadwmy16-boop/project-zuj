@@ -1,6 +1,6 @@
 package Assignment_UN;
 
-public class test {
+public class personTest {
 
     public static void main(String[] args) {
 
@@ -23,3 +23,4 @@ public class test {
 
     }
 }
+
